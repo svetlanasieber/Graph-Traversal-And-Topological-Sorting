@@ -2,12 +2,12 @@
 
 
 
-    - Graph ADS
-    - Traversal algorithms - BFS and DFS
-    - Connected components
-    - Topological sort
+    # Graph ADS
+    # Traversal algorithms - BFS and DFS
+    # Connected components
+    # Topological sort
 
-    | Item               |
+| Item               |
 |--------------------|
 | Areas_in_Matrix    |
 | Cycles_in_Graph    |
